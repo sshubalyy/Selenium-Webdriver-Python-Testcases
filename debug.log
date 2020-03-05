@@ -1,0 +1,5 @@
+[0203/150918.179:ERROR:process_info.cc(359)] UncheckedAllocate
+[0203/150922.061:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0203/150922.063:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0203/150922.481:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[0203/151119.407:ERROR:process_info.cc(359)] UncheckedAllocate
